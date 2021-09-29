@@ -4,10 +4,10 @@
 X86_64 固件
 
 ## 固件内容
-frpc
-frps
-jd-dailybonus
-uugamebootster
+frpc  
+frps  
+jd-dailybonus  
+uugamebootster  
 godproxy  
 ddns  
 diskman  
