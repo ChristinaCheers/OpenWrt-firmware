@@ -8,7 +8,6 @@ frpc
 frps  
 jd-dailybonus  
 uugamebootster  
-godproxy  
 ddns  
 diskman  
 familycloud  
@@ -19,7 +18,6 @@ syncdial
 udpxy  
 rclone  
 docker  
-passwall  
 usb-printer  
 vlmcsd  
 wol  
