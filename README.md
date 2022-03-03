@@ -3,24 +3,16 @@
 # 固件
 X86_64 固件
 
-## 固件内容
-frpc  
-frps  
-jd-dailybonus  
-uugamebootster  
+## 固件内容  
+unblockmusic  
+ss
 ddns  
-diskman  
-familycloud  
-mwan3  
-qbittorrent  
-samba  
-syncdial  
-udpxy  
-rclone  
-docker  
-usb-printer  
+diskman
 vlmcsd  
 wol  
+QOS
+turboacc
+arpbind
 zerotier  
 
 
