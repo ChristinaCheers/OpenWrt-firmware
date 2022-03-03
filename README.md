@@ -5,14 +5,14 @@ X86_64 固件
 
 ## 固件内容  
 unblockmusic  
-ss
+ss  
 ddns  
-diskman
+diskman  
 vlmcsd  
 wol  
-QOS
-turboacc
-arpbind
+QOS  
+turboacc  
+arpbind  
 zerotier  
 
 
