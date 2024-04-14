@@ -18,3 +18,4 @@ echo 'src-git helloworld https://github.com/fw876/helloworld' >>feeds.conf.defau
 echo 'src-git lucky https://github.com/gdy666/luci-app-lucky.git' >>feeds.conf.default
 echo 'src-git passwall2 https://github.com/xiaorouji/openwrt-passwall2.git' >>feeds.conf.default
 echo 'src-git passwall https://github.com/xiaorouji/openwrt-passwall-packages.git' >>feeds.conf.default
+echo 'src-git openclash https://github.com/vernesong/OpenClash.git' >>feeds.conf.default
